@@ -11,7 +11,7 @@ function App() {
         <Weather city="Paris" />
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Drtopetmi/my-app"
           target="_blank"
           rel="noopener noreferrer"
         >
